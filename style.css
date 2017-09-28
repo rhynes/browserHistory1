@@ -13,3 +13,21 @@ img {
   float: left;
   margin-right: 10px;
 }
+.column1{
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+
+.column3 {
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+.column2{
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 1em;
+}
